@@ -1,1 +1,2 @@
-sudo gem install solargraph
+gem install solargraph
+bundle
